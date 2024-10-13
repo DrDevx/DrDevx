@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dr Dev
 
-<!--
-**DrDevx/DrDevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages:
+- Python
+- JavaScript
+- GoLang
+- HTML
+- CSS
 
-Here are some ideas to get you started:
+### About Me:
+Fullstack Developer, Reverser
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1295084921357991996?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=En%20la%20mia...)](https://discord.com/users/1295084921357991996)
